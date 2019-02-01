@@ -5,7 +5,4 @@ Symbolic tic-tac-toe cube game with two modes: human vs human and human vs compu
 # What I learned
 
 * Iterate through 3D-matrices with for loops.
-
-# Accomplishments
-
-* 
+* Some symbolic game design.
