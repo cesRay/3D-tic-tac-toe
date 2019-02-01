@@ -1,5 +1,11 @@
 # 3D tic-tac-toe
 
-There's a bug I still gotta fix when playing in normal difficulty.
+Symbolic tic-tac-toe cube game with two modes: human vs human and human vs computer. Human vs computer mode has two levels of difficulty: easy and normal. Still gotta work on the hard level.
 
-The game is in Spanish.
+# What I learned
+
+* Iterate through 3D-matrices with for loops.
+
+# Accomplishments
+
+* 
